@@ -238,3 +238,261 @@ Received Import Request.
 Start importing Assets/Import/Nightclub_Bloom_Unit/Nightclub_Bloom_Unit.prefab using Guid(523fe79f10dd8ec419cefd33806093f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d00f73ec46daf140a18b59890308824') in 0.007734 seconds 
   Import took 0.012417 seconds .
 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 13.30 ms, found 9 plugins.
+Preloading 5 native plugins for Editor in 0.37 ms.
+Unloading 49 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.0 MB.
+System memory in use after: 68.2 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 3278.
+Total: 3.534400 ms (FindLiveObjects: 0.241400 ms CreateObjectMapping: 0.114500 ms MarkObjects: 3.122800 ms  DeleteObjects: 0.055100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Switching render pipeline 00000000000000000000000000000000 -> 8e0f1dd80e65eb2488c91d5c7e562baf
+Refreshing native plugins compatible for Editor in 10.15 ms, found 9 plugins.
+Preloading 5 native plugins for Editor in 0.33 ms.
+Unloading 81 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.2 MB.
+System memory in use after: 72.4 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 3326.
+Total: 3.038900 ms (FindLiveObjects: 0.225400 ms CreateObjectMapping: 0.099500 ms MarkObjects: 2.670700 ms  DeleteObjects: 0.042900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  colorSpace: 1 -> 0
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1221.127721 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/textures
+  artifactKey: Guid(2f5a0643b0a4a0547b059ad45b60a043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/textures using Guid(2f5a0643b0a4a0547b059ad45b60a043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7426f82ef6b6630e1ab9d9f381e4a60') in 0.001981 seconds 
+  Import took 0.006398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.718451 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/textures/bu_bamboo_carbonized_matte_baseColor_8.png
+  artifactKey: Guid(8fdc05ce00e134a409d1c237d226aadd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/textures/bu_bamboo_carbonized_matte_baseColor_8.png using Guid(8fdc05ce00e134a409d1c237d226aadd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb5ae176827da34ec1f4f5372c957544') in 0.013871 seconds 
+  Import took 0.018476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/textures/bu_wenge_matte_baseColor_0.png
+  artifactKey: Guid(d95003fca0d043b49ab06f555b9f7cef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/textures/bu_wenge_matte_baseColor_0.png using Guid(d95003fca0d043b49ab06f555b9f7cef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '187f4abad0c76fe812779c1907eb098f') in 0.005655 seconds 
+  Import took 0.009966 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/textures/bu_shiny_green_marble_baseColor_4.png
+  artifactKey: Guid(19b1117f25698504498dae81e8ce0b6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/textures/bu_shiny_green_marble_baseColor_4.png using Guid(19b1117f25698504498dae81e8ce0b6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb98bfff8e85e9312a2bad9cfcdd9d48') in 0.007393 seconds 
+  Import took 0.011953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/textures/bu_large_brown_outdoor_wall_tile_baseColor_3.png
+  artifactKey: Guid(b3292a66a5b0e5e4d847ea90f6d215c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/textures/bu_large_brown_outdoor_wall_tile_baseColor_3.png using Guid(b3292a66a5b0e5e4d847ea90f6d215c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06c1c7d98b6694496c48f67fb8f24bbd') in 0.006455 seconds 
+  Import took 0.010586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000095 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/textures/bu_vertical_timber_slatting_matte_baseColor_5.png
+  artifactKey: Guid(cf6edc80b5160b14c99a66ee2c12c57d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/textures/bu_vertical_timber_slatting_matte_baseColor_5.png using Guid(cf6edc80b5160b14c99a66ee2c12c57d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '419f8862ac81847a4af123944cada24f') in 0.009828 seconds 
+  Import took 0.013737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/textures/bu_mahogany_floorboards_baseColor_2.png
+  artifactKey: Guid(520b65ccd25f66f4ea9c1b7de3ce27c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/textures/bu_mahogany_floorboards_baseColor_2.png using Guid(520b65ccd25f66f4ea9c1b7de3ce27c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e86aa3c8b981115f90271dacb501dd9') in 0.008147 seconds 
+  Import took 0.012149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000104 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/textures/bu_dirt_rich_baseColor_7.png
+  artifactKey: Guid(1c835c015321e334899923ac0696d297) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/textures/bu_dirt_rich_baseColor_7.png using Guid(1c835c015321e334899923ac0696d297) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0eae899e7d6845db5cb831428abad09d') in 0.007111 seconds 
+  Import took 0.011836 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/textures/bu_large_sandstone_tiles_baseColor_6.png
+  artifactKey: Guid(1f90af391f64f5541bf6f3cee4050ea2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/textures/bu_large_sandstone_tiles_baseColor_6.png using Guid(1f90af391f64f5541bf6f3cee4050ea2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '796556178bc7fc3d995cdd43d941b074') in 0.006412 seconds 
+  Import took 0.009990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/textures/bu_brown_wall_tiles_baseColor_1.png
+  artifactKey: Guid(7a34c39cb7284834cbb71fc841badde0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/textures/bu_brown_wall_tiles_baseColor_1.png using Guid(7a34c39cb7284834cbb71fc841badde0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dae787ee854ab432287da24a90bbdfc5') in 0.005933 seconds 
+  Import took 0.009458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002065 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/textures/bu_brown_wall_tiles_baseColor_1.png
+  artifactKey: Guid(7a34c39cb7284834cbb71fc841badde0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/textures/bu_brown_wall_tiles_baseColor_1.png using Guid(7a34c39cb7284834cbb71fc841badde0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dae787ee854ab432287da24a90bbdfc5') in 0.007707 seconds 
+  Import took 0.011423 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 12.50 ms, found 9 plugins.
+Preloading 5 native plugins for Editor in 0.49 ms.
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.4 MB.
+System memory in use after: 69.6 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 3327.
+Total: 4.464500 ms (FindLiveObjects: 0.293900 ms CreateObjectMapping: 0.140400 ms MarkObjects: 3.991200 ms  DeleteObjects: 0.037100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 9.12 ms, found 9 plugins.
+Preloading 5 native plugins for Editor in 0.30 ms.
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.4 MB.
+System memory in use after: 69.6 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 3327.
+Total: 2.767700 ms (FindLiveObjects: 0.195500 ms CreateObjectMapping: 0.085100 ms MarkObjects: 2.456800 ms  DeleteObjects: 0.029800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 9.72 ms, found 9 plugins.
+Preloading 5 native plugins for Editor in 0.31 ms.
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.4 MB.
+System memory in use after: 69.6 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 3327.
+Total: 2.759500 ms (FindLiveObjects: 0.201600 ms CreateObjectMapping: 0.092500 ms MarkObjects: 2.433200 ms  DeleteObjects: 0.031700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 10.82 ms, found 9 plugins.
+Preloading 5 native plugins for Editor in 0.35 ms.
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.4 MB.
+System memory in use after: 69.6 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 3327.
+Total: 3.326600 ms (FindLiveObjects: 0.222900 ms CreateObjectMapping: 0.091600 ms MarkObjects: 2.970100 ms  DeleteObjects: 0.041500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 8.94 ms, found 9 plugins.
+Preloading 5 native plugins for Editor in 0.31 ms.
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.4 MB.
+System memory in use after: 69.6 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 3327.
+Total: 2.983900 ms (FindLiveObjects: 0.202500 ms CreateObjectMapping: 0.058600 ms MarkObjects: 2.681800 ms  DeleteObjects: 0.039900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 9.77 ms, found 9 plugins.
+Preloading 5 native plugins for Editor in 0.37 ms.
+Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.4 MB.
+System memory in use after: 69.6 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 3327.
+Total: 2.955600 ms (FindLiveObjects: 0.218400 ms CreateObjectMapping: 0.095400 ms MarkObjects: 2.606000 ms  DeleteObjects: 0.035500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 

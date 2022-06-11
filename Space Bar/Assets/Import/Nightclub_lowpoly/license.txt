@@ -1,0 +1,11 @@
+Model Information:
+* title:	Nightclub lowpoly
+* source:	https://sketchfab.com/3d-models/nightclub-lowpoly-abc26d289088455aa63fcced9d7c837b
+* author:	Miguelangelo Rosario (https://sketchfab.com/miguelangelo2k)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Nightclub lowpoly" (https://sketchfab.com/3d-models/nightclub-lowpoly-abc26d289088455aa63fcced9d7c837b) by Miguelangelo Rosario (https://sketchfab.com/miguelangelo2k) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

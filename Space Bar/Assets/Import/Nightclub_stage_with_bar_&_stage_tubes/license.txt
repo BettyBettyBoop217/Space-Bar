@@ -1,0 +1,11 @@
+Model Information:
+* title:	Nightclub stage with bar & stage tubes
+* source:	https://sketchfab.com/3d-models/nightclub-stage-with-bar-stage-tubes-73805dcbd7674c9f9651009cc8226079
+* author:	Matt kelly (https://sketchfab.com/matt.k)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Nightclub stage with bar & stage tubes" (https://sketchfab.com/3d-models/nightclub-stage-with-bar-stage-tubes-73805dcbd7674c9f9651009cc8226079) by Matt kelly (https://sketchfab.com/matt.k) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
