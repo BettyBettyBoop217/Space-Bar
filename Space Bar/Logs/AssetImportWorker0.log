@@ -15,12 +15,12 @@ C:/Users/Dunlo/OneDrive/Desktop/CreateVRWorlds/GitHub/Space-Bar/Space Bar
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-53615
+49400
 Successfully changed project path to: C:/Users/Dunlo/OneDrive/Desktop/CreateVRWorlds/GitHub/Space-Bar/Space Bar
 C:/Users/Dunlo/OneDrive/Desktop/CreateVRWorlds/GitHub/Space-Bar/Space Bar
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 51.09 ms, found 9 plugins.
-Preloading 5 native plugins for Editor in 2.01 ms.
+Refreshing native plugins compatible for Editor in 51.55 ms, found 9 plugins.
+Preloading 5 native plugins for Editor in 2.69 ms.
 Initialize engine version: 2020.3.18f1 (a7d1c678663c)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path C:/Users/Dunlo/OneDrive/Desktop/CreateVRWorlds/GitHub/Space-Bar/Space Bar/Assets
@@ -35,52 +35,52 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56596
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56632
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002262 seconds.
+Registered in 0.002184 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 38.29 ms, found 9 plugins.
-Preloading 5 native plugins for Editor in 0.38 ms.
+Refreshing native plugins compatible for Editor in 39.26 ms, found 9 plugins.
+Preloading 5 native plugins for Editor in 0.32 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.584 seconds
+- Completed reload, in  1.515 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1584ms)
-		BeginReloadAssembly (41ms)
+	ReloadAssembly (1515ms)
+		BeginReloadAssembly (39ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (284ms)
-			LoadAssemblies (38ms)
+			CreateAndSetChildDomain (0ms)
+		EndReloadAssembly (283ms)
+			LoadAssemblies (37ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (89ms)
+			SetupTypeCache (95ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (18ms)
-			SetupLoadedEditorAssemblies (124ms)
+			SetupLoadedEditorAssemblies (118ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (39ms)
-				BeforeProcessingInitializeOnLoad (6ms)
-				ProcessInitializeOnLoadAttributes (58ms)
-				ProcessInitializeOnLoadMethodAttributes (19ms)
+				RefreshPlugins (40ms)
+				BeforeProcessingInitializeOnLoad (5ms)
+				ProcessInitializeOnLoadAttributes (52ms)
+				ProcessInitializeOnLoadMethodAttributes (18ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.017889 seconds.
+Registered in 0.016267 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 37.75 ms, found 9 plugins.
-Preloading 5 native plugins for Editor in 0.35 ms.
+Refreshing native plugins compatible for Editor in 39.58 ms, found 9 plugins.
+Preloading 5 native plugins for Editor in 0.32 ms.
 [XR] OculusXRPlugin: registering subsystems
 [XR] Unable to register display lifecyle provider: [1]
 [XR] Oculus Input lifecycle provider registered.
@@ -101,30 +101,30 @@ UnityEngine.Debug:LogError (object)
 UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
 Mono: successfully reloaded assembly
-- Completed reload, in  0.828 seconds
+- Completed reload, in  0.802 seconds
 Domain Reload Profiling:
-	ReloadAssembly (828ms)
-		BeginReloadAssembly (89ms)
+	ReloadAssembly (802ms)
+		BeginReloadAssembly (92ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (3ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (12ms)
-		EndReloadAssembly (693ms)
-			LoadAssemblies (82ms)
+		EndReloadAssembly (665ms)
+			LoadAssemblies (78ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (227ms)
+			SetupTypeCache (217ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (32ms)
-			SetupLoadedEditorAssemblies (258ms)
+			RebuildScriptCaches (30ms)
+			SetupLoadedEditorAssemblies (251ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
+				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (38ms)
+				RefreshPlugins (40ms)
 				BeforeProcessingInitializeOnLoad (58ms)
-				ProcessInitializeOnLoadAttributes (140ms)
-				ProcessInitializeOnLoadMethodAttributes (11ms)
-				AfterProcessingInitializeOnLoad (8ms)
+				ProcessInitializeOnLoadAttributes (132ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (7ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (4ms)
@@ -133,121 +133,13 @@ Platform modules already initialized, skipping
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
 Refreshing native plugins compatible for Editor in 0.66 ms, found 9 plugins.
-Preloading 5 native plugins for Editor in 0.42 ms.
-Unloading 2798 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 123.4 MB.
-System memory in use after: 123.6 MB.
+Preloading 5 native plugins for Editor in 0.34 ms.
+Unloading 2863 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.0 MB.
+System memory in use after: 128.2 MB.
 
-Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 3220.
-Total: 2.446600 ms (FindLiveObjects: 0.223200 ms CreateObjectMapping: 0.069200 ms MarkObjects: 2.094400 ms  DeleteObjects: 0.059100 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  path: Assets/DiverseSpace/Material
-  artifactKey: Guid(4fe4057fa86783841b76146d300e17a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DiverseSpace/Material using Guid(4fe4057fa86783841b76146d300e17a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a68f12d69c0d5fd03eb71ee3331ce6b') in 0.005013 seconds 
-  Import took 0.008737 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000103 seconds.
-  path: Assets/DiverseSpace/Material/DiverseSpaceMaterial.mat
-  artifactKey: Guid(a4be220830e90ea4eb88b48b7fd376ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DiverseSpace/Material/DiverseSpaceMaterial.mat using Guid(a4be220830e90ea4eb88b48b7fd376ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea57177e2d5a9736f4bc6467031c2b2e') in 0.196870 seconds 
-  Import took 0.200833 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 15.636561 seconds.
-  path: Assets/DiverseSpace/Textures/diversespace-back.tif
-  artifactKey: Guid(5aaf7cd74552c9440b96748a185216d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DiverseSpace/Textures/diversespace-back.tif using Guid(5aaf7cd74552c9440b96748a185216d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c6eb7f85159dcd8832271c44f7180f0') in 0.017399 seconds 
-  Import took 0.021537 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000117 seconds.
-  path: Assets/DiverseSpace/Textures/diversespace-down.tif
-  artifactKey: Guid(fa631bed8c5ce2043816f9b7e09bc255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DiverseSpace/Textures/diversespace-down.tif using Guid(fa631bed8c5ce2043816f9b7e09bc255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e36cb538f519dd685144900984cebb0f') in 0.007208 seconds 
-  Import took 0.011100 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000114 seconds.
-  path: Assets/DiverseSpace/Textures/diversespace-up.tif
-  artifactKey: Guid(bccfe129d6c46dd42a2332a24a0ea3cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DiverseSpace/Textures/diversespace-up.tif using Guid(bccfe129d6c46dd42a2332a24a0ea3cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cfc31030ae6ecf1c3b9acd78cc66c68') in 0.009282 seconds 
-  Import took 0.013250 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000115 seconds.
-  path: Assets/DiverseSpace/Textures/diversespace-down.tif
-  artifactKey: Guid(fa631bed8c5ce2043816f9b7e09bc255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DiverseSpace/Textures/diversespace-down.tif using Guid(fa631bed8c5ce2043816f9b7e09bc255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e36cb538f519dd685144900984cebb0f') in 0.008661 seconds 
-  Import took 0.012277 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000109 seconds.
-  path: Assets/DiverseSpace/Textures/diversespace-left.tif
-  artifactKey: Guid(608a51bfce29a174aa86b692c9ff38b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DiverseSpace/Textures/diversespace-left.tif using Guid(608a51bfce29a174aa86b692c9ff38b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c446ad0bb1017307cf0a44328ac1b932') in 0.007058 seconds 
-  Import took 0.010476 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000095 seconds.
-  path: Assets/DiverseSpace/Textures/diversespace-right.tif
-  artifactKey: Guid(b83ed05e17bb80a4d960bfc607d24c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DiverseSpace/Textures/diversespace-right.tif using Guid(b83ed05e17bb80a4d960bfc607d24c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b031c86e4658a3054312ca73e83e3da') in 0.009751 seconds 
-  Import took 0.012953 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000111 seconds.
-  path: Assets/DiverseSpace/Textures/diversespace-front.tif
-  artifactKey: Guid(52915f992843f8247b7efd2a65b1b998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DiverseSpace/Textures/diversespace-front.tif using Guid(52915f992843f8247b7efd2a65b1b998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97f686f821a5f47ded75914b2086eac4') in 0.009633 seconds 
-  Import took 0.013152 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 315.267645 seconds.
-  path: Assets/Import/Nightclub_Bloom_Unit
-  artifactKey: Guid(63ca8ec16d595374081b611cd60cdc77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Import/Nightclub_Bloom_Unit using Guid(63ca8ec16d595374081b611cd60cdc77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e3d920cf4430a9b99750ca78c1c7bc3') in 0.001976 seconds 
-  Import took 0.006806 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.069621 seconds.
-  path: Assets/Import/Nightclub_Bloom_Unit/Nightclub_Bloom_Unit.prefab
-  artifactKey: Guid(523fe79f10dd8ec419cefd33806093f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Import/Nightclub_Bloom_Unit/Nightclub_Bloom_Unit.prefab using Guid(523fe79f10dd8ec419cefd33806093f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d00f73ec46daf140a18b59890308824') in 0.007734 seconds 
-  Import took 0.012417 seconds .
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 13.30 ms, found 9 plugins.
-Preloading 5 native plugins for Editor in 0.37 ms.
-Unloading 49 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 68.0 MB.
-System memory in use after: 68.2 MB.
-
-Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 3278.
-Total: 3.534400 ms (FindLiveObjects: 0.241400 ms CreateObjectMapping: 0.114500 ms MarkObjects: 3.122800 ms  DeleteObjects: 0.055100 ms)
+Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 3285.
+Total: 2.587500 ms (FindLiveObjects: 0.201700 ms CreateObjectMapping: 0.071300 ms MarkObjects: 2.243100 ms  DeleteObjects: 0.070700 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -260,231 +152,798 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
-Received Prepare
-Switching render pipeline 00000000000000000000000000000000 -> 8e0f1dd80e65eb2488c91d5c7e562baf
-Refreshing native plugins compatible for Editor in 10.15 ms, found 9 plugins.
-Preloading 5 native plugins for Editor in 0.33 ms.
-Unloading 81 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 72.2 MB.
-System memory in use after: 72.4 MB.
-
-Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 3326.
-Total: 3.038900 ms (FindLiveObjects: 0.225400 ms CreateObjectMapping: 0.099500 ms MarkObjects: 2.670700 ms  DeleteObjects: 0.042900 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  colorSpace: 1 -> 0
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
 Received Import Request.
-  Time since last request: 1221.127721 seconds.
-  path: Assets/Import/Nightclub_Bloom_Unit/textures
-  artifactKey: Guid(2f5a0643b0a4a0547b059ad45b60a043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Import/Nightclub_Bloom_Unit/textures using Guid(2f5a0643b0a4a0547b059ad45b60a043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7426f82ef6b6630e1ab9d9f381e4a60') in 0.001981 seconds 
-  Import took 0.006398 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.718451 seconds.
-  path: Assets/Import/Nightclub_Bloom_Unit/textures/bu_bamboo_carbonized_matte_baseColor_8.png
-  artifactKey: Guid(8fdc05ce00e134a409d1c237d226aadd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Import/Nightclub_Bloom_Unit/textures/bu_bamboo_carbonized_matte_baseColor_8.png using Guid(8fdc05ce00e134a409d1c237d226aadd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb5ae176827da34ec1f4f5372c957544') in 0.013871 seconds 
-  Import took 0.018476 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000119 seconds.
-  path: Assets/Import/Nightclub_Bloom_Unit/textures/bu_wenge_matte_baseColor_0.png
-  artifactKey: Guid(d95003fca0d043b49ab06f555b9f7cef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Import/Nightclub_Bloom_Unit/textures/bu_wenge_matte_baseColor_0.png using Guid(d95003fca0d043b49ab06f555b9f7cef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '187f4abad0c76fe812779c1907eb098f') in 0.005655 seconds 
-  Import took 0.009966 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000111 seconds.
-  path: Assets/Import/Nightclub_Bloom_Unit/textures/bu_shiny_green_marble_baseColor_4.png
-  artifactKey: Guid(19b1117f25698504498dae81e8ce0b6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Import/Nightclub_Bloom_Unit/textures/bu_shiny_green_marble_baseColor_4.png using Guid(19b1117f25698504498dae81e8ce0b6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb98bfff8e85e9312a2bad9cfcdd9d48') in 0.007393 seconds 
-  Import took 0.011953 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000111 seconds.
-  path: Assets/Import/Nightclub_Bloom_Unit/textures/bu_large_brown_outdoor_wall_tile_baseColor_3.png
-  artifactKey: Guid(b3292a66a5b0e5e4d847ea90f6d215c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Import/Nightclub_Bloom_Unit/textures/bu_large_brown_outdoor_wall_tile_baseColor_3.png using Guid(b3292a66a5b0e5e4d847ea90f6d215c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06c1c7d98b6694496c48f67fb8f24bbd') in 0.006455 seconds 
-  Import took 0.010586 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000095 seconds.
-  path: Assets/Import/Nightclub_Bloom_Unit/textures/bu_vertical_timber_slatting_matte_baseColor_5.png
-  artifactKey: Guid(cf6edc80b5160b14c99a66ee2c12c57d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Import/Nightclub_Bloom_Unit/textures/bu_vertical_timber_slatting_matte_baseColor_5.png using Guid(cf6edc80b5160b14c99a66ee2c12c57d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '419f8862ac81847a4af123944cada24f') in 0.009828 seconds 
-  Import took 0.013737 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000108 seconds.
-  path: Assets/Import/Nightclub_Bloom_Unit/textures/bu_mahogany_floorboards_baseColor_2.png
-  artifactKey: Guid(520b65ccd25f66f4ea9c1b7de3ce27c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Import/Nightclub_Bloom_Unit/textures/bu_mahogany_floorboards_baseColor_2.png using Guid(520b65ccd25f66f4ea9c1b7de3ce27c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e86aa3c8b981115f90271dacb501dd9') in 0.008147 seconds 
-  Import took 0.012149 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000104 seconds.
-  path: Assets/Import/Nightclub_Bloom_Unit/textures/bu_dirt_rich_baseColor_7.png
-  artifactKey: Guid(1c835c015321e334899923ac0696d297) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Import/Nightclub_Bloom_Unit/textures/bu_dirt_rich_baseColor_7.png using Guid(1c835c015321e334899923ac0696d297) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0eae899e7d6845db5cb831428abad09d') in 0.007111 seconds 
-  Import took 0.011836 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000114 seconds.
-  path: Assets/Import/Nightclub_Bloom_Unit/textures/bu_large_sandstone_tiles_baseColor_6.png
-  artifactKey: Guid(1f90af391f64f5541bf6f3cee4050ea2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Import/Nightclub_Bloom_Unit/textures/bu_large_sandstone_tiles_baseColor_6.png using Guid(1f90af391f64f5541bf6f3cee4050ea2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '796556178bc7fc3d995cdd43d941b074') in 0.006412 seconds 
-  Import took 0.009990 seconds .
+  path: Assets/Import/Nightclub_lowpoly/materials/Beige_2_38.mat
+  artifactKey: Guid(2c90373c301aa754c87ea0c84b15bda4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_lowpoly/materials/Beige_2_38.mat using Guid(2c90373c301aa754c87ea0c84b15bda4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f68f9b438d40c54abf1e1aeb057c6535') in 0.151426 seconds 
+  Import took 0.156556 seconds .
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000105 seconds.
-  path: Assets/Import/Nightclub_Bloom_Unit/textures/bu_brown_wall_tiles_baseColor_1.png
-  artifactKey: Guid(7a34c39cb7284834cbb71fc841badde0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Import/Nightclub_Bloom_Unit/textures/bu_brown_wall_tiles_baseColor_1.png using Guid(7a34c39cb7284834cbb71fc841badde0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dae787ee854ab432287da24a90bbdfc5') in 0.005933 seconds 
-  Import took 0.009458 seconds .
+  path: Assets/Import/Nightclub_Bloom_Unit/materials/Color_001_30.mat
+  artifactKey: Guid(2976feae02ec88742885e4dcce92c974) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/materials/Color_001_30.mat using Guid(2976feae02ec88742885e4dcce92c974) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df4726f0b6cd85ce0dfa403e51c33f19') in 0.008284 seconds 
+  Import took 0.013005 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.002065 seconds.
-  path: Assets/Import/Nightclub_Bloom_Unit/textures/bu_brown_wall_tiles_baseColor_1.png
-  artifactKey: Guid(7a34c39cb7284834cbb71fc841badde0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Import/Nightclub_Bloom_Unit/textures/bu_brown_wall_tiles_baseColor_1.png using Guid(7a34c39cb7284834cbb71fc841badde0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dae787ee854ab432287da24a90bbdfc5') in 0.007707 seconds 
-  Import took 0.011423 seconds .
+  Time since last request: 0.000106 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/materials/edge_color18300255_8.mat
+  artifactKey: Guid(0c06f594c5fb13747b8f168940edbb58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/materials/edge_color18300255_8.mat using Guid(0c06f594c5fb13747b8f168940edbb58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b607ce0aea3074f61ba3736ca821c7d') in 0.176872 seconds 
+  Import took 0.181007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Import/Nightclub_lowpoly/materials/Color_003_39.mat
+  artifactKey: Guid(880e6370351d6cf4996644719ede70b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_lowpoly/materials/Color_003_39.mat using Guid(880e6370351d6cf4996644719ede70b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '013ac9843b6db2b9cb742d62f394e09d') in 0.008399 seconds 
+  Import took 0.012288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/materials/edge_color353535255_44.mat
+  artifactKey: Guid(a38f065cb31def445992fc3f585dffb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/materials/edge_color353535255_44.mat using Guid(a38f065cb31def445992fc3f585dffb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '196de0931be1abf037176c84e72beb9e') in 0.011792 seconds 
+  Import took 0.015871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/materials/edge_color192145112255_35.mat
+  artifactKey: Guid(08caa622f8453eb4b94ce22bfff94e98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/materials/edge_color192145112255_35.mat using Guid(08caa622f8453eb4b94ce22bfff94e98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8425fc6065aabc4374526b57a05581c') in 0.007102 seconds 
+  Import took 0.011174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/Import/Nightclub_lowpoly/materials/edge_color157158154255_1.mat
+  artifactKey: Guid(bef2e94632eaab148bf1ed9e475862d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_lowpoly/materials/edge_color157158154255_1.mat using Guid(bef2e94632eaab148bf1ed9e475862d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c41668689f96c97373a9d000e7a5d458') in 0.007615 seconds 
+  Import took 0.011813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000104 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/materials/bu_bamboo_carbonized_matte_49.mat
+  artifactKey: Guid(a7ab26b9678e6a54ca0ecd52abea4cd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/materials/bu_bamboo_carbonized_matte_49.mat using Guid(a7ab26b9678e6a54ca0ecd52abea4cd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '561c60c1140165b676feae6c27399b9f') in 0.008383 seconds 
+  Import took 0.012959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Import/Nightclub_lowpoly/materials/edge_color200255_2.mat
+  artifactKey: Guid(8aa648ffcd9581a439e3f311eb8d6ebc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_lowpoly/materials/edge_color200255_2.mat using Guid(8aa648ffcd9581a439e3f311eb8d6ebc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27a0377e38541d46f1ebbf8ce9ba0272') in 0.006955 seconds 
+  Import took 0.010968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/materials/bu_anodized_aluminium_natural_6.mat
+  artifactKey: Guid(5d11661431c5a6b42ba2fc6015a31c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/materials/bu_anodized_aluminium_natural_6.mat using Guid(5d11661431c5a6b42ba2fc6015a31c45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4a39ef7cb964e1cc4ffc92032131cc4') in 0.006815 seconds 
+  Import took 0.010822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/materials/edge_color151224255255_21.mat
+  artifactKey: Guid(36f8fe332702db845a600cd1226bd72c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/materials/edge_color151224255255_21.mat using Guid(36f8fe332702db845a600cd1226bd72c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87d3452008f15109b606e308e9b4e8c7') in 0.008192 seconds 
+  Import took 0.013265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/Import/Nightclub_lowpoly/materials/Color_L25_43.mat
+  artifactKey: Guid(ea5abf301b9df4b49a7c897e2c7e4ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_lowpoly/materials/Color_L25_43.mat using Guid(ea5abf301b9df4b49a7c897e2c7e4ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5d2e5c49f675944ba6a1a9b8af35554') in 0.007748 seconds 
+  Import took 0.011746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/Import/The_Wrong_Part_of_Town/materials/air_conditioner1_19.mat
+  artifactKey: Guid(20ebf3582795043459a73638ee67ab27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/The_Wrong_Part_of_Town/materials/air_conditioner1_19.mat using Guid(20ebf3582795043459a73638ee67ab27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '235ebd6a940572a419416cc2d97faead') in 0.269988 seconds 
+  Import took 0.274585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/Import/Nightclub_lowpoly/materials/aa11ff_45.mat
+  artifactKey: Guid(eea42cc7253f6664e8e5260999a1f0af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_lowpoly/materials/aa11ff_45.mat using Guid(eea42cc7253f6664e8e5260999a1f0af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2928ab5c823116b8960c86c6270909b3') in 0.007675 seconds 
+  Import took 0.012443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Assets/Import/The_Wrong_Part_of_Town/materials/doorway_0.mat
+  artifactKey: Guid(f6d24ba1affedec418163c58d7a723c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/The_Wrong_Part_of_Town/materials/doorway_0.mat using Guid(f6d24ba1affedec418163c58d7a723c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7e314b1fd7afe98353717635557e546') in 0.184866 seconds 
+  Import took 0.189361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Import/Nightclub_lowpoly/materials/Color_G01_30.mat
+  artifactKey: Guid(aff26ef19eedbe346b35a58684abf44a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_lowpoly/materials/Color_G01_30.mat using Guid(aff26ef19eedbe346b35a58684abf44a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '059372cb1777cb3bfed19b6fb0853dd6') in 0.007226 seconds 
+  Import took 0.011450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/Import/Disco_ball_animated/materials/disco_0.mat
+  artifactKey: Guid(bce8413b46df42849b9f6078fdcdac69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Disco_ball_animated/materials/disco_0.mat using Guid(bce8413b46df42849b9f6078fdcdac69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1be8779030b298b9afea6d44fce22bab') in 0.010805 seconds 
+  Import took 0.015224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/Import/Nightclub_stage_with_bar_&_stage_tubes/materials/Bar_2__0_0.mat
+  artifactKey: Guid(7367eda98fd13a344917ef00ee619347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_stage_with_bar_&_stage_tubes/materials/Bar_2__0_0.mat using Guid(7367eda98fd13a344917ef00ee619347) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4aabc3ababa065f93139d10180deab6c') in 0.006758 seconds 
+  Import took 0.011293 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Import/Nightclub_lowpoly/materials/Color_I06_19.mat
+  artifactKey: Guid(bcfb6d6806913834390088ecad96e054) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_lowpoly/materials/Color_I06_19.mat using Guid(bcfb6d6806913834390088ecad96e054) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79fd261fa910d35bc9a69fa61a1bf37a') in 0.008242 seconds 
+  Import took 0.012784 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/materials/edge_color251196255255_16.mat
+  artifactKey: Guid(4f2f3b87a8db40945950cd5be6061099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/materials/edge_color251196255255_16.mat using Guid(4f2f3b87a8db40945950cd5be6061099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9eb186e70990b50342b5253755344629') in 0.006659 seconds 
+  Import took 0.011243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/DiverseSpace/Material/DiverseSpaceMaterial.mat
+  artifactKey: Guid(a4be220830e90ea4eb88b48b7fd376ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DiverseSpace/Material/DiverseSpaceMaterial.mat using Guid(a4be220830e90ea4eb88b48b7fd376ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e484e0e878e5bf0bad27e8ff15df002') in 0.016772 seconds 
+  Import took 0.021738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/materials/edge_color252525255_29.mat
+  artifactKey: Guid(18dfffe2f077e56418baa679bfeae5ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/materials/edge_color252525255_29.mat using Guid(18dfffe2f077e56418baa679bfeae5ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78126cae0bfd0243a0b4a3d15aceb5ee') in 0.006480 seconds 
+  Import took 0.010741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000102 seconds.
+  path: Assets/Import/Nightclub_lowpoly/materials/brown_42.mat
+  artifactKey: Guid(a0d8cbe807cb6fa48a97de0bfad226fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_lowpoly/materials/brown_42.mat using Guid(a0d8cbe807cb6fa48a97de0bfad226fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2c90c9bb31ad8b03d762b7689536de7') in 0.006840 seconds 
+  Import took 0.011015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Assets/Import/Nightclub_lowpoly/materials/Buff_22.mat
+  artifactKey: Guid(7c9c89a96f2932840b34166955298b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_lowpoly/materials/Buff_22.mat using Guid(7c9c89a96f2932840b34166955298b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6c366704b4c2b771571eeccfc10ba00') in 0.007235 seconds 
+  Import took 0.011357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Import/Nightclub_lowpoly/materials/Color_H25_46.mat
+  artifactKey: Guid(283946efcb7724140b9ebbafb4100686) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_lowpoly/materials/Color_H25_46.mat using Guid(283946efcb7724140b9ebbafb4100686) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37fa8c4180be12fca2457193032bb4eb') in 0.006509 seconds 
+  Import took 0.010762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000102 seconds.
+  path: Assets/Import/Nightclub_lowpoly/materials/bu_vertical_timber_slatting_matte_18.mat
+  artifactKey: Guid(63d3f2aa7cc09c64596f4df87aa51817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_lowpoly/materials/bu_vertical_timber_slatting_matte_18.mat using Guid(63d3f2aa7cc09c64596f4df87aa51817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f839af4f1318d88c343ee031a7d0349') in 0.007932 seconds 
+  Import took 0.012042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000104 seconds.
+  path: Assets/Import/Nightclub_lowpoly/materials/Color_A01_23.mat
+  artifactKey: Guid(1ebd3a93e8477ee47ac00454ced0d070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_lowpoly/materials/Color_A01_23.mat using Guid(1ebd3a93e8477ee47ac00454ced0d070) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bba37ac3b777d2650ca5937e118691dd') in 0.006770 seconds 
+  Import took 0.011142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/materials/bu_dirt_rich_43.mat
+  artifactKey: Guid(a7e237d8e5bfb9f48bb5b2d9eaecfe8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/materials/bu_dirt_rich_43.mat using Guid(a7e237d8e5bfb9f48bb5b2d9eaecfe8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55cbd71bb925d81e06423ad9331a1f69') in 0.007813 seconds 
+  Import took 0.012181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/Import/Nightclub_lowpoly/materials/edge_color486262255_47.mat
+  artifactKey: Guid(e4a5d392328e7ca42a2e9e3bc75d2c7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_lowpoly/materials/edge_color486262255_47.mat using Guid(e4a5d392328e7ca42a2e9e3bc75d2c7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ed878cd64af4d4a5bd9d71664c37b01') in 0.006573 seconds 
+  Import took 0.010551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000102 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/materials/bu_large_brown_outdoor_wall_tile_10.mat
+  artifactKey: Guid(822262be3e9152240bda5ecea4ceaa2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/materials/bu_large_brown_outdoor_wall_tile_10.mat using Guid(822262be3e9152240bda5ecea4ceaa2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34346806e56df9c43b438b76729c7a81') in 0.007782 seconds 
+  Import took 0.011891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000101 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/materials/bu_large_sandstone_tiles_28.mat
+  artifactKey: Guid(7f54ec81d4aab674e995d461d751b3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/materials/bu_large_sandstone_tiles_28.mat using Guid(7f54ec81d4aab674e995d461d751b3f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '782fc2a65f95d604e5360ce5c4370d77') in 0.007880 seconds 
+  Import took 0.012005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/Import/Nightclub_lowpoly/materials/Carpet_Diamond_Olive_15.mat
+  artifactKey: Guid(db522375ccea569428d976a3a07290c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_lowpoly/materials/Carpet_Diamond_Olive_15.mat using Guid(db522375ccea569428d976a3a07290c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f4647489167459c9bfcda347868e803') in 0.008129 seconds 
+  Import took 0.012312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/Import/The_Wrong_Part_of_Town/materials/basepipeholder_20.mat
+  artifactKey: Guid(c64d020cc4d0d484d846617b185e784b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/The_Wrong_Part_of_Town/materials/basepipeholder_20.mat using Guid(c64d020cc4d0d484d846617b185e784b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f383d5d13baa222d041e8113fa28280f') in 0.178344 seconds 
+  Import took 0.183209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/materials/edge_color192192192255_45.mat
+  artifactKey: Guid(997666bbbab5b7e4ea97e1b3175e30d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/materials/edge_color192192192255_45.mat using Guid(997666bbbab5b7e4ea97e1b3175e30d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2234d4c418f42dfa999184f4c6a4e72') in 0.006547 seconds 
+  Import took 0.010741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Import/The_Wrong_Part_of_Town/materials/cautiondoor1_24.mat
+  artifactKey: Guid(d3ee5fe60d5ea214cb6919a2b33155b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/The_Wrong_Part_of_Town/materials/cautiondoor1_24.mat using Guid(d3ee5fe60d5ea214cb6919a2b33155b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf78594f6b87e7927be5e3639fe8e83e') in 0.025073 seconds 
+  Import took 0.029957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/Import/Nightclub_lowpoly/materials/Color_J03_29.mat
+  artifactKey: Guid(e953eb7c4a2a71f478ef4a971a94fca0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_lowpoly/materials/Color_J03_29.mat using Guid(e953eb7c4a2a71f478ef4a971a94fca0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f8952c483ac2164baf38be09efa7c00') in 0.007259 seconds 
+  Import took 0.011224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000104 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/materials/edge_color9115955255_39.mat
+  artifactKey: Guid(f058fe0831f9c654f82faaa0086004ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/materials/edge_color9115955255_39.mat using Guid(f058fe0831f9c654f82faaa0086004ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9aa9b74af5979ddbdc82a442a63a4c93') in 0.006384 seconds 
+  Import took 0.010648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/Import/Nightclub_lowpoly/materials/edge_color000255_0.mat
+  artifactKey: Guid(8b8950091ba79884ebc9ab5059703ce3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_lowpoly/materials/edge_color000255_0.mat using Guid(8b8950091ba79884ebc9ab5059703ce3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eddc90dbd71c8d7a80fd06993a886bc6') in 0.006904 seconds 
+  Import took 0.010986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Assets/Import/Nightclub_lowpoly/materials/bu_shiny_green_marble_17.mat
+  artifactKey: Guid(878e8a2afc8eccb4cae4bd0034bfbcf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_lowpoly/materials/bu_shiny_green_marble_17.mat using Guid(878e8a2afc8eccb4cae4bd0034bfbcf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0d4a809740db8741fd4996982976420') in 0.008306 seconds 
+  Import took 0.012722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/Import/Nightclub_lowpoly/materials/Color_B23_40.mat
+  artifactKey: Guid(be0738b6067758049bf92a8c9b18fecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_lowpoly/materials/Color_B23_40.mat using Guid(be0738b6067758049bf92a8c9b18fecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4425b32665463626b264e01153fa3ea5') in 0.007145 seconds 
+  Import took 0.011683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/materials/bu_shiny_green_marble_14.mat
+  artifactKey: Guid(118877b7b5d55494eb49732979e54a6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/materials/bu_shiny_green_marble_14.mat using Guid(118877b7b5d55494eb49732979e54a6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8619ecf6f842591c12f5692773e0baa8') in 0.008220 seconds 
+  Import took 0.012303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Assets/Import/Nightclub_lowpoly/materials/edge_color1309182255_9.mat
+  artifactKey: Guid(0f0ee9d6e9c374741a346858fd1d2318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_lowpoly/materials/edge_color1309182255_9.mat using Guid(0f0ee9d6e9c374741a346858fd1d2318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '287bbeb11c42678aeffed579a360d285') in 0.007134 seconds 
+  Import took 0.011574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Import/Nightclub_lowpoly/materials/edge_color255630255_31.mat
+  artifactKey: Guid(73f2406cee68be2488bcfa3cf3203423) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_lowpoly/materials/edge_color255630255_31.mat using Guid(73f2406cee68be2488bcfa3cf3203423) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '310da4b4296f8eb4f19c538d0a38cdcd') in 0.006624 seconds 
+  Import took 0.011107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/UPGEN/Lighting/Examples/Materials/Dark Material.mat
+  artifactKey: Guid(2b3150ab35afb8941a74d005b56c3053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UPGEN/Lighting/Examples/Materials/Dark Material.mat using Guid(2b3150ab35afb8941a74d005b56c3053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7f8f7ac79ff0bd9b7adbed82c2b8e13') in 0.007256 seconds 
+  Import took 0.011868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000104 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/materials/bu_bamboo_natural_matte_36.mat
+  artifactKey: Guid(2da781bfd2ae29249a7cf1509b790c1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/materials/bu_bamboo_natural_matte_36.mat using Guid(2da781bfd2ae29249a7cf1509b790c1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e353250b135d28ef8d06db4557d5629e') in 0.007164 seconds 
+  Import took 0.011874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/Import/Nightclub_lowpoly/materials/0007_MistyRose_5.mat
+  artifactKey: Guid(f570473c77cbc18438de20cadbd23e7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_lowpoly/materials/0007_MistyRose_5.mat using Guid(f570473c77cbc18438de20cadbd23e7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e4be52a252529b0062cd9baacea9401') in 0.006815 seconds 
+  Import took 0.010338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/Import/Nightclub_lowpoly/materials/Color_J11_25.mat
+  artifactKey: Guid(fcdfcdf8c71ba634796320d06f140f58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_lowpoly/materials/Color_J11_25.mat using Guid(fcdfcdf8c71ba634796320d06f140f58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '364e16811e427b3cec40122378d6f2ed') in 0.007070 seconds 
+  Import took 0.011047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/materials/edge_color434343255_18.mat
+  artifactKey: Guid(97e07b9842fa7c94f8cd61c1a377945b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/materials/edge_color434343255_18.mat using Guid(97e07b9842fa7c94f8cd61c1a377945b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10f6b57b0e75e83b7d61b871e32649e6') in 0.006822 seconds 
+  Import took 0.011016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/materials/bu_black_coating_2.mat
+  artifactKey: Guid(6b1ac54c4c758a042baf70cd6cae0d33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/materials/bu_black_coating_2.mat using Guid(6b1ac54c4c758a042baf70cd6cae0d33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f428aae5309f9788cbdd56bdac9f5a6f') in 0.007520 seconds 
+  Import took 0.011409 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000098 seconds.
+  path: Assets/Import/Nightclub_lowpoly/materials/Carpet_Berber_Multi_34.mat
+  artifactKey: Guid(2b61f2b1980d968468092734fe90fc62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_lowpoly/materials/Carpet_Berber_Multi_34.mat using Guid(2b61f2b1980d968468092734fe90fc62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cfc282d6cda5f1a687084cf2e17fa7a') in 0.008885 seconds 
+  Import took 0.012688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/Import/Nightclub_lowpoly/materials/edge_color247234190255_3.mat
+  artifactKey: Guid(f6e47f8e2bcaa96479434ddc6408dcab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_lowpoly/materials/edge_color247234190255_3.mat using Guid(f6e47f8e2bcaa96479434ddc6408dcab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c0a149f15266a1a220ed19e5c3a7349') in 0.007082 seconds 
+  Import took 0.010371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/materials/edge_color3912739255_37.mat
+  artifactKey: Guid(aafd4c4034816d04bb249b25dfa92b34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/materials/edge_color3912739255_37.mat using Guid(aafd4c4034816d04bb249b25dfa92b34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2811a42b7e3ec33d412f91527dfcf48e') in 0.006746 seconds 
+  Import took 0.010230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000099 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/materials/edge_color24866255255_9.mat
+  artifactKey: Guid(afa80b6aa092ec64cafeaf08bdd7d80d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/materials/edge_color24866255255_9.mat using Guid(afa80b6aa092ec64cafeaf08bdd7d80d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b415246ed5400c9a841d348154cb775') in 0.006418 seconds 
+  Import took 0.011253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Assets/Import/Nightclub_lowpoly/materials/Carpet_Berber_Pattern_Gray_11.mat
+  artifactKey: Guid(3c8a4db81eb9c50489beb0239a250ab4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_lowpoly/materials/Carpet_Berber_Pattern_Gray_11.mat using Guid(3c8a4db81eb9c50489beb0239a250ab4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a2ca3326c7a27c20751d92c821cfadc') in 0.008075 seconds 
+  Import took 0.012066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000102 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/materials/Color_007_32.mat
+  artifactKey: Guid(68213bbeaaafb9c4c8f3ef5acb9ff033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/materials/Color_007_32.mat using Guid(68213bbeaaafb9c4c8f3ef5acb9ff033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3782ba87e2f995762e089180da6aea93') in 0.006772 seconds 
+  Import took 0.010296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/Import/Nightclub_lowpoly/materials/48_62_62_48.mat
+  artifactKey: Guid(2cdbbda38c9bd5244b37ba823bfdec9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_lowpoly/materials/48_62_62_48.mat using Guid(2cdbbda38c9bd5244b37ba823bfdec9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af2c567f7bd09070ca46093976920018') in 0.006714 seconds 
+  Import took 0.010075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000102 seconds.
+  path: Assets/Import/Nightclub_lowpoly/materials/edge_color1654242255_41.mat
+  artifactKey: Guid(9e5cbc9d9c25da44cba577fea5b11f45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_lowpoly/materials/edge_color1654242255_41.mat using Guid(9e5cbc9d9c25da44cba577fea5b11f45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '047f5e86a688f701143c8af556a61a9f') in 0.006408 seconds 
+  Import took 0.009285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/materials/edge_color000255_0.mat
+  artifactKey: Guid(102320182d5147e4bbe7739dbe51620e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/materials/edge_color000255_0.mat using Guid(102320182d5147e4bbe7739dbe51620e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5151eb152778f2f9434060063a56e3eb') in 0.006567 seconds 
+  Import took 0.009238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000098 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/materials/bu_brown_wall_tiles_4.mat
+  artifactKey: Guid(21064029857c9ff43aa3f629af99ef79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/materials/bu_brown_wall_tiles_4.mat using Guid(21064029857c9ff43aa3f629af99ef79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33c038061b12ebdb8314bf50247c33e4') in 0.007288 seconds 
+  Import took 0.010494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/materials/bu_vertical_timber_slatting_matte_17.mat
+  artifactKey: Guid(c5ffc5d1fc376ed48a19b5a92335d8c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/materials/bu_vertical_timber_slatting_matte_17.mat using Guid(c5ffc5d1fc376ed48a19b5a92335d8c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c84709b6c74fa01c010355993e9cafd1') in 0.008378 seconds 
+  Import took 0.011810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/materials/Color_002_34.mat
+  artifactKey: Guid(68e2bcd59b0e1aa4e86148c49454d4e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/materials/Color_002_34.mat using Guid(68e2bcd59b0e1aa4e86148c49454d4e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f096ba1fe0c25d0244cd333a2e1d3ad') in 0.007598 seconds 
+  Import took 0.011254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000102 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/materials/bu_wenge_matte_3.mat
+  artifactKey: Guid(989bc808bde826a4082e7850320af224) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/materials/bu_wenge_matte_3.mat using Guid(989bc808bde826a4082e7850320af224) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f4957c3de4f40ac2992af752ff86bb1') in 0.008003 seconds 
+  Import took 0.011283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/Import/Nightclub_lowpoly/materials/Color_I01_21.mat
+  artifactKey: Guid(8b3dd45714ed72849b94e8addfda4355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_lowpoly/materials/Color_I01_21.mat using Guid(8b3dd45714ed72849b94e8addfda4355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fdd3f29ef5e751a93d94a0f2a5d559d') in 0.007195 seconds 
+  Import took 0.010571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/materials/bu_anodized_aluminium_black_27.mat
+  artifactKey: Guid(1addbd379faa2ee4bade8877679e6e18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/materials/bu_anodized_aluminium_black_27.mat using Guid(1addbd379faa2ee4bade8877679e6e18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b85ca271acb4a16fedfeb1dff9d126b') in 0.006760 seconds 
+  Import took 0.009977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/materials/edge_color198198198255_33.mat
+  artifactKey: Guid(c4d840aa443f40043a5c4312d72a4609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/materials/edge_color198198198255_33.mat using Guid(c4d840aa443f40043a5c4312d72a4609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51c88d00d6e6524f3fcae1812b9946a6') in 0.006596 seconds 
+  Import took 0.010037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/materials/bu_black_vinyl_42.mat
+  artifactKey: Guid(1eeb6ba4c5a3f9b44ab1e4a0692132f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/materials/bu_black_vinyl_42.mat using Guid(1eeb6ba4c5a3f9b44ab1e4a0692132f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4b8c32edba9f50ad1ab500c276e634d') in 0.007457 seconds 
+  Import took 0.010555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/materials/bu_pearlescent_coating_19.mat
+  artifactKey: Guid(a34f79b38c2cb1e4cac46ce1fd512913) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/materials/bu_pearlescent_coating_19.mat using Guid(a34f79b38c2cb1e4cac46ce1fd512913) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe7baaae1bdb6e1c3e798d03e6781a2b') in 0.006826 seconds 
+  Import took 0.010129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000102 seconds.
+  path: Assets/Import/Nightclub_lowpoly/materials/Color_B01_20.mat
+  artifactKey: Guid(e8bc316a107e9924e95a46c9f0c5ca5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_lowpoly/materials/Color_B01_20.mat using Guid(e8bc316a107e9924e95a46c9f0c5ca5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea2598461b7e3850e02f9e423cfc96b7') in 0.007031 seconds 
+  Import took 0.010095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/materials/bu_mahogany_floorboards_5.mat
+  artifactKey: Guid(47cdd0549bf36d546bd66cd26a08f010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/materials/bu_mahogany_floorboards_5.mat using Guid(47cdd0549bf36d546bd66cd26a08f010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efd0c73b261e0a19dea614150b5073c2') in 0.007856 seconds 
+  Import took 0.010806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000095 seconds.
+  path: Assets/Import/Nightclub_lowpoly/materials/Color_009_37.mat
+  artifactKey: Guid(5305be689c04b114aa59b2e14442edbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_lowpoly/materials/Color_009_37.mat using Guid(5305be689c04b114aa59b2e14442edbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e56688908a5d3dc5016c0ca5a999f4ec') in 0.006810 seconds 
+  Import took 0.009803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/materials/edge_color1269261255_48.mat
+  artifactKey: Guid(5868258f9e12f9043a787a1100e32795) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/materials/edge_color1269261255_48.mat using Guid(5868258f9e12f9043a787a1100e32795) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe37c3aacea419bc141f056a59a2a373') in 0.006862 seconds 
+  Import took 0.010173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/materials/Charcoal_47.mat
+  artifactKey: Guid(1baf7c332a8960448a1318ed5de910a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/materials/Charcoal_47.mat using Guid(1baf7c332a8960448a1318ed5de910a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac969dde0c3cd03b8b081c67623abf1c') in 0.006847 seconds 
+  Import took 0.009969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000092 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/materials/edge_color897668255_41.mat
+  artifactKey: Guid(b4bcbb0a71515d34aaa8ffb5d4a84148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/materials/edge_color897668255_41.mat using Guid(b4bcbb0a71515d34aaa8ffb5d4a84148) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abc6ffbded935e212b8f46a61bb9dbb4') in 0.006488 seconds 
+  Import took 0.009423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000101 seconds.
+  path: Assets/Import/Nightclub_lowpoly/materials/edge_color17017255255_44.mat
+  artifactKey: Guid(60efb476070c60347bbcfd0d890d95ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_lowpoly/materials/edge_color17017255255_44.mat using Guid(60efb476070c60347bbcfd0d890d95ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1abbe24244889ebf9cd4d94e2ce3361a') in 0.006709 seconds 
+  Import took 0.010037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/Import/Nightclub_Bloom_Unit/materials/Color_009_31.mat
+  artifactKey: Guid(e46e221ffb06df94e954b383f2d80970) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub_Bloom_Unit/materials/Color_009_31.mat using Guid(e46e221ffb06df94e954b383f2d80970) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5895386969bc463a3aef9e166b5bca0') in 0.006330 seconds 
+  Import took 0.009551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Assets/UPGEN/Lighting/Examples/Materials/Blue Material.mat
+  artifactKey: Guid(24a14a3b028423741a9efe7add6a43bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UPGEN/Lighting/Examples/Materials/Blue Material.mat using Guid(24a14a3b028423741a9efe7add6a43bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bec76cedd76f8d074ac716857c631e0f') in 0.006384 seconds 
+  Import took 0.009487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.876330 seconds.
+  path: Assets/Sketchfab For Unity/Scripts
+  artifactKey: Guid(a8ee8c71a1fb7d94baf481b6a2a2ac6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sketchfab For Unity/Scripts using Guid(a8ee8c71a1fb7d94baf481b6a2a2ac6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8beb3a1d7f45ac7abcbbd6ef0febd8c9') in 0.002216 seconds 
+  Import took 0.006152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Sketchfab For Unity/Scripts
+  artifactKey: Guid(a8ee8c71a1fb7d94baf481b6a2a2ac6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sketchfab For Unity/Scripts using Guid(a8ee8c71a1fb7d94baf481b6a2a2ac6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8beb3a1d7f45ac7abcbbd6ef0febd8c9') in 0.001796 seconds 
+  Import took 0.004365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 128.977268 seconds.
+  path: Assets/Import/Nightclub
+  artifactKey: Guid(fe2f191772b4ee9459c63aab59a799b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub using Guid(fe2f191772b4ee9459c63aab59a799b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '198a26fc50075e833f66ba8d6dec8322') in 0.002106 seconds 
+  Import took 0.006067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.568956 seconds.
+  path: Assets/Import/Nightclub/textures
+  artifactKey: Guid(5b2166ef0bcdba64d8cc62d35197ef42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub/textures using Guid(5b2166ef0bcdba64d8cc62d35197ef42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da45cbf1d550e4df0e0bfd99978c3d50') in 0.002453 seconds 
+  Import took 0.007194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.083988 seconds.
+  path: Assets/Import/Nightclub/textures/lambert1_baseColor_4.png
+  artifactKey: Guid(1fcdb224db79a594b94777da969622a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub/textures/lambert1_baseColor_4.png using Guid(1fcdb224db79a594b94777da969622a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4516ec3b1f52b24fcd045a4917adb5da') in 0.018489 seconds 
+  Import took 0.023373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Import/Nightclub/textures/lambert2_metallicRoughness_1_metal.png
+  artifactKey: Guid(4828a64448bbd4442a0c38580a14345f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub/textures/lambert2_metallicRoughness_1_metal.png using Guid(4828a64448bbd4442a0c38580a14345f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05d8f1fb2a52c650eff54226f49a450b') in 0.008939 seconds 
+  Import took 0.014070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Import/Nightclub/textures/lambert2_normal_3.png
+  artifactKey: Guid(8074d98b0ff38e74f8a6fd64d1a0dd84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub/textures/lambert2_normal_3.png using Guid(8074d98b0ff38e74f8a6fd64d1a0dd84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f71d474e1d332adbaedf32b6adbb042') in 0.016454 seconds 
+  Import took 0.020957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/Import/Nightclub/textures/lambert2_metallicRoughness_1_occlusion.png
+  artifactKey: Guid(34959873133b5654ca736a512bbc4d46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub/textures/lambert2_metallicRoughness_1_occlusion.png using Guid(34959873133b5654ca736a512bbc4d46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8784fa7ead935666a7b0d95a3559db1e') in 0.009836 seconds 
+  Import took 0.014170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Import/Nightclub/textures/lambert2_metallicRoughness_1.png
+  artifactKey: Guid(b2afec7eb5c10d54fa97a4669c3aa9aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub/textures/lambert2_metallicRoughness_1.png using Guid(b2afec7eb5c10d54fa97a4669c3aa9aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abbb40e4f2cfd3e170396f7301743d24') in 0.012503 seconds 
+  Import took 0.017080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/Import/Nightclub/textures/lambert2_baseColor_0.png
+  artifactKey: Guid(231ce3a6ec4d1b04fa8266482a4a4bc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub/textures/lambert2_baseColor_0.png using Guid(231ce3a6ec4d1b04fa8266482a4a4bc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0410f2f7a3995f90117d6efcefbdafe') in 0.010009 seconds 
+  Import took 0.014802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Import/Nightclub/textures/lambert1_metallicRoughness_5_metal.png
+  artifactKey: Guid(7cc7c15ecefaa9d4c98b044f14d015d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub/textures/lambert1_metallicRoughness_5_metal.png using Guid(7cc7c15ecefaa9d4c98b044f14d015d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b67682f036971f784433e9a9c0e9c057') in 0.013894 seconds 
+  Import took 0.018556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/Import/Nightclub/textures/lambert1_normal_7.png
+  artifactKey: Guid(5777c4a0c970ba648a82a777073a9764) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub/textures/lambert1_normal_7.png using Guid(5777c4a0c970ba648a82a777073a9764) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '906c0c28c863d96dd47d12556790b084') in 0.012117 seconds 
+  Import took 0.016444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Import/Nightclub/textures/lambert1_emissive_6.png
+  artifactKey: Guid(d8af74e8ceae28f4f8dbbc6f81a92ce6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub/textures/lambert1_emissive_6.png using Guid(d8af74e8ceae28f4f8dbbc6f81a92ce6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9c717c1e38decf87eb4574a47a43ae4') in 0.009834 seconds 
+  Import took 0.014642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Import/Nightclub/textures/lambert2_emissive_2.png
+  artifactKey: Guid(9e1f52f1c695eac478253c356702d875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub/textures/lambert2_emissive_2.png using Guid(9e1f52f1c695eac478253c356702d875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91fd30e2ef11583e0cf4cc8726de42c0') in 0.008573 seconds 
+  Import took 0.013038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/Import/Nightclub/textures/lambert1_emissive_6.png
+  artifactKey: Guid(d8af74e8ceae28f4f8dbbc6f81a92ce6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub/textures/lambert1_emissive_6.png using Guid(d8af74e8ceae28f4f8dbbc6f81a92ce6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9c717c1e38decf87eb4574a47a43ae4') in 0.006796 seconds 
+  Import took 0.012106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/Import/Nightclub/textures/lambert1_metallicRoughness_5_occlusion.png
+  artifactKey: Guid(ecced0de64481dc46b111a2827a22457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub/textures/lambert1_metallicRoughness_5_occlusion.png using Guid(ecced0de64481dc46b111a2827a22457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba2dfd0477a70b27192c6dbab8543145') in 0.007342 seconds 
+  Import took 0.011433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000101 seconds.
+  path: Assets/Import/Nightclub/textures/lambert1_metallicRoughness_5.png
+  artifactKey: Guid(45794e9868c1a9940915e57f2f884ef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub/textures/lambert1_metallicRoughness_5.png using Guid(45794e9868c1a9940915e57f2f884ef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3beed928ef18d371a6839d8154a70d56') in 0.011502 seconds 
+  Import took 0.015716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.518531 seconds.
+  path: Assets/Import/Nightclub/meshes/Object_0_0_0.asset
+  artifactKey: Guid(ac4eb544ceae81949a44c823baa99ffe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub/meshes/Object_0_0_0.asset using Guid(ac4eb544ceae81949a44c823baa99ffe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '006bb4b9dc81f3dd6e10b9c73711a24c') in 0.174134 seconds 
+  Import took 0.179248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Import/Nightclub/meshes/Object_1_1_0.asset
+  artifactKey: Guid(b95a9df815aa10a4abfe64441b1777d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub/meshes/Object_1_1_0.asset using Guid(b95a9df815aa10a4abfe64441b1777d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18b0ef5b6655cb5249b8141fd3b2f4a0') in 0.009316 seconds 
+  Import took 0.013869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.662974 seconds.
+  path: Assets/Import/Nightclub/materials/lambert1_1.mat
+  artifactKey: Guid(b4c73479012364242b5777721c64f60e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub/materials/lambert1_1.mat using Guid(b4c73479012364242b5777721c64f60e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b77448c4dce9c0b211c7196474b6789a') in 0.021937 seconds 
+  Import took 0.027352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Import/Nightclub/materials/lambert2_0.mat
+  artifactKey: Guid(390fd33a6443ebe4f960a31b5cf9f6b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub/materials/lambert2_0.mat using Guid(390fd33a6443ebe4f960a31b5cf9f6b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0914c2289ae6db3cccfb992cfa16a034') in 0.018629 seconds 
+  Import took 0.023377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.048815 seconds.
+  path: Assets/Import/Nightclub/materials
+  artifactKey: Guid(0d7c5bec4422ad841acf7e7cb7f23b7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import/Nightclub/materials using Guid(0d7c5bec4422ad841acf7e7cb7f23b7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7989299f82a8715d83431a3de653061f') in 0.001945 seconds 
+  Import took 0.007106 seconds .
 
 ========================================================================
 Received Prepare
-Refreshing native plugins compatible for Editor in 12.50 ms, found 9 plugins.
-Preloading 5 native plugins for Editor in 0.49 ms.
+Refreshing native plugins compatible for Editor in 13.45 ms, found 9 plugins.
+Preloading 5 native plugins for Editor in 0.55 ms.
 Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 69.4 MB.
-System memory in use after: 69.6 MB.
+System memory in use before: 71.8 MB.
+System memory in use after: 72.0 MB.
 
-Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 3327.
-Total: 4.464500 ms (FindLiveObjects: 0.293900 ms CreateObjectMapping: 0.140400 ms MarkObjects: 3.991200 ms  DeleteObjects: 0.037100 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 9.12 ms, found 9 plugins.
-Preloading 5 native plugins for Editor in 0.30 ms.
-Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 69.4 MB.
-System memory in use after: 69.6 MB.
-
-Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 3327.
-Total: 2.767700 ms (FindLiveObjects: 0.195500 ms CreateObjectMapping: 0.085100 ms MarkObjects: 2.456800 ms  DeleteObjects: 0.029800 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 9.72 ms, found 9 plugins.
-Preloading 5 native plugins for Editor in 0.31 ms.
-Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 69.4 MB.
-System memory in use after: 69.6 MB.
-
-Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 3327.
-Total: 2.759500 ms (FindLiveObjects: 0.201600 ms CreateObjectMapping: 0.092500 ms MarkObjects: 2.433200 ms  DeleteObjects: 0.031700 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 10.82 ms, found 9 plugins.
-Preloading 5 native plugins for Editor in 0.35 ms.
-Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 69.4 MB.
-System memory in use after: 69.6 MB.
-
-Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 3327.
-Total: 3.326600 ms (FindLiveObjects: 0.222900 ms CreateObjectMapping: 0.091600 ms MarkObjects: 2.970100 ms  DeleteObjects: 0.041500 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 8.94 ms, found 9 plugins.
-Preloading 5 native plugins for Editor in 0.31 ms.
-Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 69.4 MB.
-System memory in use after: 69.6 MB.
-
-Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 3327.
-Total: 2.983900 ms (FindLiveObjects: 0.202500 ms CreateObjectMapping: 0.058600 ms MarkObjects: 2.681800 ms  DeleteObjects: 0.039900 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 9.77 ms, found 9 plugins.
-Preloading 5 native plugins for Editor in 0.37 ms.
-Unloading 33 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 69.4 MB.
-System memory in use after: 69.6 MB.
-
-Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 3327.
-Total: 2.955600 ms (FindLiveObjects: 0.218400 ms CreateObjectMapping: 0.095400 ms MarkObjects: 2.606000 ms  DeleteObjects: 0.035500 ms)
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 3398.
+Total: 3.214000 ms (FindLiveObjects: 0.256500 ms CreateObjectMapping: 0.072200 ms MarkObjects: 2.842400 ms  DeleteObjects: 0.042100 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
